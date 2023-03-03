@@ -1,0 +1,36 @@
+.q1 {
+  display: flex;
+  justify-content: end;
+}
+
+.div1 {
+  background-color: red;
+  height: 50px;
+  width: 50px;
+  margin: 1px;
+}
+
+.div2 {
+  background-color: yellow;
+  height: 50px;
+  width: 50px;
+  margin: 1px;
+}
+
+.div3 {
+  background-color: green;
+  height: 50px;
+  width: 50px;
+  margin: 1px;
+}
+
+.q2 {
+  display: flex;
+  justify-content: center;
+}
+
+.q3 {
+  display: flex;
+}
+
+/*# sourceMappingURL=style.css.map */

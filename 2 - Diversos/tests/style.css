@@ -1,0 +1,21 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+.main{
+    display: flex;
+    gap: 10px;
+    justify-content: space-around;
+    align-content: space-between;
+    
+}
+.square{
+    width: 150px;
+    height: 150px;
+    background-color: blue;
+}

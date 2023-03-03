@@ -1,0 +1,39 @@
+$cor-quadrado: red;
+$cor-quadrado2: yellow;
+$cor-quadrado3: green;
+$width-q: 50px;
+
+
+.q1{
+    display: flex;
+    justify-content: end    ;
+}
+
+.div1{
+    background-color: $cor-quadrado;
+    height: $width-q;
+    width: $width-q;
+    margin: 1px;
+}
+
+.div2{
+    background-color: $cor-quadrado2;
+    height: $width-q;
+    width: $width-q;
+    margin: 1px;
+}
+
+.div3{
+    background-color: $cor-quadrado3;
+    height: $width-q;
+    width: $width-q;
+    margin: 1px;
+}
+.q2{
+    display: flex;
+    justify-content: center;
+}
+
+.q3{
+    display: flex;
+}

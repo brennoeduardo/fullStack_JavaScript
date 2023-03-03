@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(54, 54, 136);
+}
+
+h1{
+    color: white;
+}
+
+h3{
+    color: black;
+    background-color: yellow;
+    border: 1px solid black;
+}
+
+p{
+  color: yellow;  
+}
+
+.color-list{
+    color: white;
+}
+
+#red{
+    color: red;
+}
