@@ -13,4 +13,4 @@ console.log(operation(5, 4))
 const nome = function (nome){
     console.log("Olá, " + nome)
 }
-nome("Brenno")
+nome("Brenno" + "!")
